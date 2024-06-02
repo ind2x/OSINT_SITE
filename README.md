@@ -1,7 +1,6 @@
 ## OSINT 사이트
 ---
 
-+ OSINT CheatSheet => https://www.cheatsheet.wtf/OSINT/
 + Proton Email => https://github.com/pixelbubble/ProtOSINT
 + Whois => Whoxy => https://www.whoxy.com/
   + Whois는 로그인을 해야 하는데, Whoxy는 필요없음
