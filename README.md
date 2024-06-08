@@ -19,7 +19,7 @@
 + OSINT 수집 중 파일을 수집한 경우
   + 파일을 다운로드 받게 된 경우, 파일의 속성에서 만든이, 마지막 수정자 등도 수집 대상인 듯함 
 
-+ Sandbox Browser => OSINT는 아니지만.. OSINT인가?
++ Sandbox Browser => OSINT 할 때 쓸만할 듯
   + https://www.browserling.com/
   + 악성 도메인에 접속해봐야 할 때 쓸만함
 
