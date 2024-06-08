@@ -26,4 +26,5 @@
 + Socmint (Social Media Intelligence)
   + Osint tool collection 깃허브도 좋긴한데 저거는 socmint 부분을 보면 따로 구분이 되어있어서 대량의 사이트들로부터 검색해서 찾는 것은 무리인 것 같음 
   + https://github.com/sherlock-project/sherlock
+    + https://github.com/Longwater1234/go-sherlock => Sherlock Go버젼, 꽤 빠름
   + https://github.com/soxoj/maigret
